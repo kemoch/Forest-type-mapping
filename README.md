@@ -1,0 +1,2 @@
+# Forest-type-mapping
+I have used the output data of a study which classified different forest types based on their spectral characteristics at visible-to-near infrared wavelengths, using ASTER satellite imagery. The aim was to identify and/or quantify the ecosystem services (e.g. carbon storage, erosion protection) provided by the forest. I have achieved my goal leveraging on Decision Tree Classifier, Cross Validation, Random Forest &amp; XG Boost.
